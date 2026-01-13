@@ -12,7 +12,7 @@
   </div>
 
   <h3 align="center">AI Resume Analyzer</h3>
-  <p align="center">Built with ❤️ by Vishal Pal</p>
+  <p align="center">Built with ❤️ by Rutuja Godse</p>
 </div>
 
 ## 📋 Table of Contents
